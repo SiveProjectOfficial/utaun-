@@ -20,8 +20,8 @@
  ・ZIP を解凍して、そのまま人力ボカロ素材として使う用途  
  ・音MAD・YTPMV などの素材としての用途  
 【Utaunの使用方法】  
- ① Utaun.ver-1.0.2.zip をダウンロードします。（Releasesからダウンロードして下さい。）  
- ② Utaun.ver-1.0.2.zip を展開（解凍）します。  
+ ① Utaun.ver-1.0.3.zip をダウンロードします。（Releasesからダウンロードして下さい。）  
+ ② Utaun.ver-1.0.3.zip を展開（解凍）します。  
  ③ Utaun.exe を任意のフォルダ（デスクトップ推奨）に置きます。  
  ④ Utaun.exe を起動し、画面の指示に従います。  
  ⑤ 「（音源名）.zip がドキュメントに出来上がったよ！」と表示されたら UTAU 音源の完成です。  
@@ -34,8 +34,7 @@
    ZIP のまま読み込めます（解凍不要）。  
  ※ 各ソフトでの具体的な利用方法は、それぞれのヘルプ・マニュアル・公式ドキュメントをご参照ください。  
 【動作環境】  
- ・Windows 11  
-   （Windows 10 での動作確認はしていません。確認でき次第、追記します。）  
+ ・Windows10〜11（64bit）    
 【未対応】  
  ・濁音母音（あ゙・い゙・ゔ・え゙・お゙）  
  ・囁き・ブレス・息成分などの表情差分  
@@ -95,7 +94,7 @@ It automatically generates a sound source ZIP file in the Documents folder.
  UTAlet: Can be loaded as a ZIP file (no decompression required).  
   
 For specific usage instructions for each software, please refer to the respective help, manual, or official documentation.  【Operating Environment】  
- Windows 11 (Operation on Windows 10 has not been confirmed. We will add information as soon as confirmation is possible.)  
+ Windows10〜11（64bit）   
  【Unsupported】  
 ・Voiced vowels (a, i, u, e, o)  
 ・Expression variations such as whispering, breath, and breath components  
