@@ -13,4 +13,5 @@ Yalnızca eklemeli sentez kullanarak UTAU için CV ses bankaları oluşturan bir
 ### 【Şartlar】
 Yazılımın değiştirilmesi, ticari kullanımı veya yeniden dağıtılması yasaktır. Üretilen sesler kullanıcıya aittir.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇹🇷
