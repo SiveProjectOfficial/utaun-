@@ -19,3 +19,5 @@ Un logiciel Windows générant des banques de voix CV pour UTAU par synthèse ad
 
 ### 【Conditions】
 Modification, usage commercial et redistribution du logiciel interdits. Vous êtes libre de définir les règles pour vos banques générées.
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇫🇷
